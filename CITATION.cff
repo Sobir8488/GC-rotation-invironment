@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated article and repository DOI."
+title: "Reproducibility package for Channel-specific Environmental Rotation Signatures in Galactic Globular Clusters"
+type: dataset
+authors:
+  - family-names: Turaev
+    given-names: S. J.
+  - family-names: Nuritdinov
+    given-names: S. N.
+  - family-names: Yuldoshev
+    given-names: Q. X.
+version: "1.0"
+date-released: "2026-09-07"
