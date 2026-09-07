@@ -13,7 +13,7 @@ from:
    DOI 10.5281/zenodo.4891252
 
 The result freeze is FINAL_RESULTS_FREEZE.csv.
-The final manuscript source is source/FINAL_JAA_REBUILT.tex.
+The final manuscript source is source/FINAL_REBUILT.tex.
 
 Important interpretation policy:
 - historical manuscript numbers were checkpoints, not fit targets;
