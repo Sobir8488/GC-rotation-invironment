@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1360232405.svg)](https://doi.org/10.5281/zenodo.22643987)
 Channel-specific Environmental Rotation Signatures in Galactic Globular Clusters
 Reproducibility package
 
